@@ -1,0 +1,22 @@
+[youtube] kJQP7kiw5Fk: Downloading webpage
+[youtube] kJQP7kiw5Fk: Downloading js player ec262be6
+send: b'GET /watch?v=kJQP7kiw5Fk&gl=US&hl=en&has_verified=1&bpctr=9999999999&disable_polymer=true HTTP/1.1\r\nHost: www.youtube.com\r\nCookie: PREF=f1=50000000&f6=8&hl=en\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3776.0 Safari/537.36\r\nAccept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-us,en;q=0.5\r\nConnection: close\r\n\r\n'
+reply: 'HTTP/1.1 200 OK\r\n'
+header: Content-Encoding: gzip
+header: Cache-Control: no-cache
+header: P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+header: Strict-Transport-Security: max-age=31536000
+header: X-Content-Type-Options: nosniff
+header: Expires: Tue, 27 Apr 1971 19:44:06 GMT
+header: X-Frame-Options: SAMEORIGIN
+header: Content-Type: text/html; charset=utf-8
+header: Date: Sat, 31 Oct 2020 14:42:32 GMT
+header: Server: YouTube Frontend Proxy
+header: X-XSS-Protection: 0
+header: Set-Cookie: VISITOR_INFO1_LIVE=jhhVjt84uQU; path=/; domain=.youtube.com; secure; expires=Thu, 29-Apr-2021 14:42:32 GMT; httponly; samesite=None
+header: Set-Cookie: YSC=9j8MnEjOCIQ; path=/; domain=.youtube.com; secure; httponly; samesite=None
+header: Set-Cookie: GPS=1; path=/; domain=.youtube.com; expires=Sat, 31-Oct-2020 15:12:32 GMT
+header: Set-Cookie: s_gl=1d69aac621b2f9c0a25dade722d6e24bcwIAAABVUw==; path=/; domain=.youtube.com
+header: Alt-Svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+header: Connection: close
+header: Transfer-Encoding: chunked

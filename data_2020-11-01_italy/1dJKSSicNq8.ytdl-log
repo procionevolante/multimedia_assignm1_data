@@ -1,0 +1,37 @@
+[youtube] 1dJKSSicNq8: Downloading webpage
+[download] Destination: /dev/null
+send: b'GET /watch?v=1dJKSSicNq8&gl=US&hl=en&has_verified=1&bpctr=9999999999&disable_polymer=true HTTP/1.1\r\nHost: www.youtube.com\r\nCookie: PREF=f1=50000000&f6=8&hl=en\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3559.1 Safari/537.36\r\nAccept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-us,en;q=0.5\r\nConnection: close\r\n\r\n'
+reply: 'HTTP/1.1 200 OK\r\n'
+header: Strict-Transport-Security: max-age=31536000
+header: Content-Encoding: gzip
+header: X-Content-Type-Options: nosniff
+header: Cache-Control: no-cache
+header: Content-Type: text/html; charset=utf-8
+header: X-Frame-Options: SAMEORIGIN
+header: P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+header: Expires: Tue, 27 Apr 1971 19:44:06 GMT
+header: Date: Sun, 01 Nov 2020 02:11:54 GMT
+header: Server: YouTube Frontend Proxy
+header: X-XSS-Protection: 0
+header: Set-Cookie: VISITOR_INFO1_LIVE=Ur8LPjLOT_A; path=/; domain=.youtube.com; secure; expires=Fri, 30-Apr-2021 02:11:54 GMT; httponly; samesite=None
+header: Set-Cookie: s_gl=1d69aac621b2f9c0a25dade722d6e24bcwIAAABVUw==; path=/; domain=.youtube.com
+header: Set-Cookie: YSC=CEFEybZWZcs; path=/; domain=.youtube.com; secure; httponly; samesite=None
+header: Set-Cookie: GPS=1; path=/; domain=.youtube.com; expires=Sun, 01-Nov-2020 02:41:54 GMT
+header: Alt-Svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+header: Connection: close
+header: Transfer-Encoding: chunked
+send: b'GET /videoplayback?expire=1604218314&ei=ahmeX9C-C7ix-gaq74fYBQ&ip=79.18.218.113&id=o-AKbDPxovp4iAZ4u6l_DXCUvjIxvXeSnomZh8dKcyy3TA&itag=22&source=youtube&requiressl=yes&mh=0B&mm=31%2C29&mn=sn-uxaxpu5ap5-ugoe%2Csn-hpa7znsz&ms=au%2Crdu&mv=m&mvi=4&pl=24&initcwndbps=1431250&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=76.974&lmt=1580022939416675&mt=1604196639&fvip=4&c=WEB&txp=1306222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgPscubOVEhPrhHIcWbrVOgrgbTjV2VCfA0lAoU_47AGECIBdRRoQax5byvoH4sDcfzmjWUoYnDbP-zmGN4BBz2_K5&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKGycQgoVPctZxsyp5xEcWomDdF-VzSnNFIoBtcx8e8gAiEApXoyrvB-zmJnYm4XvauslBPEOKIt4hgsN2kCcvBMB7c%3D HTTP/1.1\r\nAccept-Encoding: identity\r\nHost: r4---sn-uxaxpu5ap5-ugoe.googlevideo.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3559.1 Safari/537.36\r\nAccept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-us,en;q=0.5\r\nConnection: close\r\n\r\n'
+reply: 'HTTP/1.1 200 OK\r\n'
+header: Last-Modified: Sun, 26 Jan 2020 07:15:39 GMT
+header: Content-Type: video/mp4
+header: Date: Sun, 01 Nov 2020 02:11:56 GMT
+header: Expires: Sun, 01 Nov 2020 02:11:56 GMT
+header: Cache-Control: private, max-age=21298
+header: Accept-Ranges: bytes
+header: Content-Length: 9642571
+header: Connection: close
+header: Alt-Svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+header: Vary: Origin
+header: Cross-Origin-Resource-Policy: cross-origin
+header: X-Content-Type-Options: nosniff
+header: Server: gvs 1.0
